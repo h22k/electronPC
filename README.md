@@ -1,2 +1,1 @@
-# electronPC
-Electron.js İle masaüstü uygulaması
+Electron.js ile hayalinizdeki masaüstü uygulamasını HTML,CSS ve JavaScript ile kolaylıkla yapabilirsiniz.
